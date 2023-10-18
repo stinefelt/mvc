@@ -1,0 +1,17 @@
+{
+  "name": "MVC",
+  "version" : "1.0.0",
+  "id": "mvc",
+  "author": "Stinefelt",
+  "author website": "",
+  "thumbnail": "thumbnail.jpg",
+  "active": true,
+  "index": 1,
+  "routes": {
+    "on": ["dashboard"],
+    "off": []
+  },
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,9 @@
+/** CSS File for your Plugin **/
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Tahoma;
+}
